@@ -13,3 +13,5 @@ export default function Contact(){
         <p>In-person sessions from Manchester, England. Online sessions available for other areas.</p>
       </div>
     </section>
+)
+}
