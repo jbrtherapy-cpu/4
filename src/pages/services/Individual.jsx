@@ -23,3 +23,5 @@ export default function Individual(){
         <p>Phone: 07823 663208</p>
       </div>
     </section>
+)
+}
